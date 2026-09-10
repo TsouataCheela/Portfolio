@@ -1,8 +1,8 @@
-# [Tsouata Tchoupou Leslie Cheela] — Cybersecurity & Network Engineering Portfolio
+# Tsouata Tchoupou Leslie Cheela — Cybersecurity & Network Engineering Portfolio
 
 Network and Security Engineer | BTech in Computer Network and System Maintenance, IUGET Bonamoussadi | Douala, Cameroon
 
-📧 [lesliecheela@gmail.com] · 🔗 [https://www.linkedin.com/in/tsouata-cheela-ba982a288] · 💻 [https://github.com/TsouataCheela]
+📧 lesliecheela@gmail.com · 🔗 https://www.linkedin.com/in/tsouata-cheela-ba982a288 · 💻 https://github.com/TsouataCheela
 
 A collection of hands-on infrastructure and security projects I've designed, deployed, and maintained. Each entry breaks down the architecture, the problem, my approach, and what changed after implementation.
 
